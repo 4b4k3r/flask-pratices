@@ -1,0 +1,4 @@
+virtualenv: es una herramienta para crear entornos aislados de Python.
+pip: es el instalador de paquetes para Python.
+requirements.txt: es el archivo en donde se colocará todas las dependencias a instalar en nuestra aplicación.
+FLASK_APP: es la variable para identificar el archivo donde se encuentra la aplicación.
